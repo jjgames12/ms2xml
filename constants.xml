@@ -577,7 +577,7 @@
 	<v key="BeautyStyleExpandSlotPrice" value="4888" locale="CN" />
 	<v key="BeautyStyleExpandSlotPrice" value="980" locale="NA" />
 	<v key="BeautyStyleMaxSlotCount" value="0" />
-	<v key="BeautyStyleDefaultSlotCount" value="15" />
+	<v key="BeautyStyleDefaultSlotCount" value="30" />
 	<v key="BeautyStyleExpandSlotCount1time" value="3" />
 	<v key="CashshopFigureAddressPage" value="http://maplestory2.nexon.com/cashshop/address" />
 	<v key="TencentCashChargeWebPage" value="http://mxd2.qq.com/webpay/mxdtlhb.html" locale="CN" />
@@ -773,12 +773,12 @@
 	<v key="NurturingPlayMailId" value="18101804" locale="NA" />
 	<v key="SkillPointLimitLevel1" value="80" />
 	<v key="SkillPointLimitLevel2" value="70" />
-	<v key="SellPriceNormalMax" value="4628" />
-	<v key="SellPriceRareMax" value="5785" />
-	<v key="SellPriceEliteMax" value="7405" />
-	<v key="SellPriceExcellentMax" value="9256" />
-	<v key="SellPriceLegendaryMax" value="11339" />
-	<v key="SellPriceArtifactMax" value="13653" />
+	<v key="SellPriceNormalMax" value="-1000" />
+	<v key="SellPriceRareMax" value="-1000" />
+	<v key="SellPriceEliteMax" value="-1000" />
+	<v key="SellPriceExcellentMax" value="1000000" />
+	<v key="SellPriceLegendaryMax" value="-1000" />
+	<v key="SellPriceArtifactMax" value="-1000" />
 	<v key="SellPriceNormalMax" value="5693" locale="KR" />
 	<v key="SellPriceRareMax" value="7116" locale="KR" />
 	<v key="SellPriceEliteMax" value="9109" locale="KR" />
@@ -809,4 +809,8 @@
 	<v key="MouseInteractLimitDistance" value="2000" feature="MouseInteract" />
 	<v key="AutoInstallEquipmentMinLevel" value="5" feature="AutoNewEquipSet" />
 	<v key="AutoInstallEquipmentMaxLevel" value="49" feature="AutoNewEquipSet" />
+	<v key="PartySearchRegisterComboValues" value="4,10" />
+	<v key="PartySearchRegisterComboValues" value="4,10" locale="KR" />
+	<v key="PartySearchRegisterComboValues" value="4,10" locale="CN" />
+	<v key="PartySearchRegisterComboValues" value="4,6,10" locale="NA" />
 </ms2>
